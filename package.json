@@ -1,10 +1,10 @@
 {
   "name": "ebakusdb",
-  "description": "A node.js driver for Ebakus DB.",
+  "description": "A node.js driver for EbakusDB.",
   "homepage": "https://www.ebakus.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebakus/node-ebakus.git"
+    "url": "git+https://github.com/ebakus/node-ebakusdb.git"
   },
   "author": "Chris Ziogas <chris@ebakus.com>",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "driver"
   ],
   "bugs": {
-    "url": "https://github.com/ebakus/node-ebakus/issues"
+    "url": "https://github.com/ebakus/node-ebakusdb/issues"
   },
   "private": true,
   "main": "./index.js",
