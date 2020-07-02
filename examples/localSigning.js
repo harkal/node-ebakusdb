@@ -4,9 +4,9 @@
 const ebakusdb = require('..')
 
 const client = ebakusdb.createClient({
-  secure: false,
-  host: 'localhost',
-  port: 8545,
+  secure: true,
+  host: 'rpc.ebakus-testnet.com',
+  port: 443,
 
   localSigning: true,
 
