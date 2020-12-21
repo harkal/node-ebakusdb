@@ -6,6 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/ebakus/node-ebakusdb.git"
   },
+  "version": "0.1.0",
   "author": "Chris Ziogas <chris@ebakus.com>",
   "license": "MIT",
   "keywords": [
